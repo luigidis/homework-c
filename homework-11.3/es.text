@@ -1,0 +1,8 @@
+Codificare un programma che provi a stampare il risultato delle
+seguenti operazioni:
+1. 2.0 / 0;
+
+2. 2 / 0;
+
+Qual`e la differenza tra la prima e la seconda operazione? Spiegare
+il perchè del comportamento differente del programma nei due casi.
